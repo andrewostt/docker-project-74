@@ -1,0 +1,4 @@
+app/.npm
+app/node_modules
+app/dist
+app/*.sqlite
